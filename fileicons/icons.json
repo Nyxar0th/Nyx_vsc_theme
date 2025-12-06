@@ -1,0 +1,177 @@
+{
+  "iconDefinitions": {
+    "_file": {
+      "iconPath": "./default.svg"
+    },
+    "_folder": {
+      "iconPath": "./folder.svg"
+    },
+    "_folder_open": {
+      "iconPath": "./folder-open.svg"
+    },
+
+    "js": {
+      "iconPath": "./js.svg"
+    },
+    "ts": {
+      "iconPath": "./ts.svg"
+    },
+    "jsx": {
+      "iconPath": "./jsx.svg"
+    },
+    "tsx": {
+      "iconPath": "./tsx.svg"
+    },
+
+    "python": {
+      "iconPath": "./python.svg"
+    },
+    "java": {
+      "iconPath": "./java.svg"
+    },
+
+    "json": {
+      "iconPath": "./json.svg"
+    },
+    "yaml": {
+      "iconPath": "./yaml.svg"
+    },
+    "xml": {
+      "iconPath": "./xml.svg"
+    },
+
+    "html": {
+      "iconPath": "./html.svg"
+    },
+    "css": {
+      "iconPath": "./css.svg"
+    },
+    "sass": {
+      "iconPath": "./sass.svg"
+    },
+
+    "markdown": {
+      "iconPath": "./markdown.svg"
+    },
+
+    "shell": {
+      "iconPath": "./shell.svg"
+    },
+    "env": {
+      "iconPath": "./env.svg"
+    },
+    "config": {
+      "iconPath": "./config.svg"
+    },
+
+    "node": {
+      "iconPath": "./node.svg"
+    },
+
+    "image": {
+      "iconPath": "./image.svg"
+    },
+
+    "git": {
+      "iconPath": "./git.svg"
+    }
+  },
+
+  "folder": "_folder",
+  "folderExpanded": "_folder_open",
+  "file": "_file",
+
+  "fileExtensions": {
+    "js": "js",
+    "mjs": "js",
+    "cjs": "js",
+    "jsx": "jsx",
+
+    "ts": "ts",
+    "tsx": "tsx",
+
+    "py": "python",
+    "pyw": "python",
+
+    "java": "java",
+
+    "json": "json",
+    "jsonc": "json",
+    "eslintrc": "json",
+    "babelrc": "json",
+
+    "yml": "yaml",
+    "yaml": "yaml",
+
+    "xml": "xml",
+
+    "html": "html",
+    "htm": "html",
+
+    "css": "css",
+    "scss": "sass",
+    "sass": "sass",
+
+    "md": "markdown",
+    "markdown": "markdown",
+
+    "sh": "shell",
+    "bash": "shell",
+
+    "env": "env",
+
+    "ini": "config",
+    "cfg": "config",
+    "conf": "config",
+    "toml": "config",
+
+    "png": "image",
+    "jpg": "image",
+    "jpeg": "image",
+    "gif": "image",
+    "svg": "image",
+    "webp": "image"
+  },
+
+  "fileNames": {
+    "package.json": "node",
+    "package-lock.json": "node",
+    "pnpm-lock.yaml": "node",
+    "yarn.lock": "node",
+    ".gitignore": "git",
+    ".gitattributes": "git",
+    ".gitconfig": "git",
+    ".env": "env",
+    ".env.local": "env",
+    ".env.development": "env",
+    ".env.production": "env"
+  },
+
+  "languageIds": {
+    "javascript": "js",
+    "javascriptreact": "jsx",
+
+    "typescript": "ts",
+    "typescriptreact": "tsx",
+
+    "python": "python",
+    "java": "java",
+
+    "json": "json",
+    "jsonc": "json",
+
+    "yaml": "yaml",
+
+    "xml": "xml",
+
+    "html": "html",
+    "css": "css",
+    "scss": "sass",
+    "sass": "sass",
+
+    "markdown": "markdown",
+    "mdx": "markdown",
+
+    "shellscript": "shell"
+  }
+}

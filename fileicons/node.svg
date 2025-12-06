@@ -1,0 +1,12 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <rect width="128" height="128" rx="22" fill="#020617"/>
+  <path d="M64 26L92 42V74L64 90L36 74V42L64 26Z" fill="#064E3B"/>
+  <path d="M64 30L88 44V72L64 86L40 72V44L64 30Z" fill="#10B981"/>
+  <text x="50%" y="63%" text-anchor="middle"
+        font-family="Consolas, Menlo, monospace"
+        font-size="30"
+        font-weight="700"
+        fill="#022C22">
+    N
+  </text>
+</svg>

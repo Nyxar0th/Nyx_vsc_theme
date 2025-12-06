@@ -1,0 +1,58 @@
+{
+  "name": "nyx-purple-void",
+  "displayName": "Nyx Theme: Purple Void",
+  "description": "A dark, soft-contrast purple theme with custom file icons and clean .env highlighting, built for late-night coding sessions.",
+  "version": "0.0.3",
+  "publisher": "nyxar0th",
+  "license": "MIT",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nyxar0th/Nyx_vsc_theme.git"
+  },
+  "homepage": "https://github.com/Nyxar0th/Nyx_vsc_theme",
+  "bugs": {
+    "url": "https://github.com/Nyxar0th/Nyx_vsc_theme/issues"
+  },
+
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+
+  "categories": ["Themes"],
+  "keywords": [
+    "dark",
+    "purple",
+    "nyx",
+    "void",
+    "cosmic",
+    "night",
+    "icons",
+    "file-icons",
+    "minimal"
+  ],
+
+  "icon": "icon.png",
+
+  "galleryBanner": {
+    "color": "#0b0614",
+    "theme": "dark"
+  },
+
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nyx Theme: Purple Void",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nyx_vsc_Theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "nyx-file-icons",
+        "label": "Nyx File Icons",
+        "path": "./fileicons/icons.json"
+      }
+    ]
+  }
+}
